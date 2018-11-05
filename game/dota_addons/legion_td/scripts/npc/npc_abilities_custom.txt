@@ -4325,13 +4325,13 @@
     		"02"
     		{
     			"var_type"						"FIELD_INTEGER"
-    			"radius"						"200"
+    			"radius"						"100"
     		}	
 		
     		"03"
     		{
     			"var_type"						"FIELD_INTEGER"
-    			"absorb_amount"					"120"
+    			"absorb_amount"					"60"
     		}				
     		"04"
     		{
